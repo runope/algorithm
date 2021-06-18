@@ -1,12 +1,3 @@
-/*
- * @Author: Runope
- * @Date: 2021-06-17 16:35:08
- * @LastEditors: Runope
- * @LastEditTime: 2021-06-17 20:17:03
- * @Description: file content
- * @contact: runope@qq.com
- */
-
 const sortFn = (a, b) => {
   // ex: 'blog/array/169.majorityElement'
   const numberA = Number(a.split('/')[2].split('.')[0]);
@@ -36,6 +27,9 @@ function changeTitleInBar(sidebar, titleMap) {
 
 const titleMap = {
   List: '📖 题库列表',
+  leetcode: '力扣',
+  test: '测试',
+  '0introduce': '介绍',
   Home: '首页',
   Array: '数组',
   Backtracking: '回溯法',
@@ -76,13 +70,13 @@ module.exports = {
     lineNumbers: true,
   },
   themeConfig: {
-    sidebarDepth: 2,
+    sidebarDepth: 3,
     lastUpdated: "Last Upadted",
   },
   themeConfig: {
     // 导航栏配置
     nav: [
-      { text: "Algorithm", link: "/list/hash-table/1.twoSum.html"}, // 内部链接 以docs为根目录
+      { text: "Algorithm", link: "/list/algorithm/leetcode/introduce/"}, // 内部链接 以docs为根目录
       { text: "Blog", link: "https://blog.runope.top/" }, // 外部链接
       // 下拉列表
       {
