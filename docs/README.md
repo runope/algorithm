@@ -12,10 +12,10 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 This ebook classifies and records my programming analysis. You can click the sidebar to see
 the resolution, And the source code is available at the bottom of this page.
 
-[leetcode analysis ebook](/leetcode/)
+[leetcode analysis ebook](https://blog.runope.top/algorithm/)
 
 ### LeetCode source in GitHub
-[leetcode source](https://github.com/runope/acm)
+[leetcode source](https://github.com/runope/algorithm/code_src/)
 |  index  | title  |  code  |  Difficulty |
 | :-----: | :----: | :----: | :---------: |
 | 0001 | Two Sum | [JavaScript](https://github.com/runope/algorithm/code_src/leetcode/0001-TwoSum.js) | Easy |
