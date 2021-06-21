@@ -16,10 +16,9 @@ var findAnagrams = function(s, p) {
     let res = [], windows = {}
     while(right < s.length) {
         windows[s[right]] = (windows[s[right]] || 0) + 1
-        
-        if(windows[s[right]] > (p_map[s[right]] || 0)) {
+        while(windows[s[right]] > (p_map[s[right]] || 0)) {
+            windows[s[left]]--
             left++
-            windows[left]--
         }
         right++
         if(right - left === p.length) res.push(left)
@@ -27,12 +26,3 @@ var findAnagrams = function(s, p) {
     }
     return res
 };
-
-let s = "cbaebabacd"
-let t = "abc"
-
-console.log(findAnagrams(s, t))
-
-// [0,6]
-
-
