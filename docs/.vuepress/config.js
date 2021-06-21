@@ -83,7 +83,7 @@ module.exports = {
         text: "Github",
         items: [
           { text: "GitHub Home", link: "https://github.com/runope/" },
-          { text: "Algorithm Repository", link: "https://github.com/runope/" },
+          { text: "Algorithm Repository", link: "https://github.com/runope/algorithm/"},
         ],
       },
     ],
