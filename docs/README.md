@@ -22,5 +22,6 @@ the resolution, And the source code is available at the bottom of this page.
 | 0002 | Add Two Numbers | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0002-addTwoNumbers.js) | Medium |
 | 0003 | longest substring without repeating characters | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0003-longestSubstringWithoutRepeatingCharacters.js) | Medium |
 | 0004 | median of two sorted arrays | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0004-medianOfTwoSortedArrays.js) | Hard |
-
+| 0438 | sliding window maximum | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0239-slidingWindowMaximum.js) | Hard |
+| 1208 | get equal substrings within budget | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1208-getEqualSubstringsWithinBudget.js) | Medium |
 
