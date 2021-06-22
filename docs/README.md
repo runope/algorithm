@@ -24,6 +24,7 @@ the resolution, And the source code is available at the bottom of this page.
 | 0004 | median of two sorted arrays | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0004-medianOfTwoSortedArrays.js) | Hard |
 | 0239 | sliding window maximum | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0239-slidingWindowMaximum.js) | Hard |
 | 0438 | find all anagrams in a string | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0438-findAllAnagramsInAString.js) | Medium |
+| 0567 | permutation-in-string | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0567-permutationInString.js) | Medium |
 | 1208 | get equal substrings within budget | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1208-getEqualSubstringsWithinBudget.js) | Medium |
 | 1456 | maximum number of vowels in a substring of given length | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1456-MaximumNumberOfVowelsInASubstringOfGivenLength.js) | Medium |
 
