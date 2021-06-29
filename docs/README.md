@@ -31,10 +31,15 @@ the resolution, And the source code is available at the bottom of this page.
 | 0203 | remove linked list elements | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0203-removeLinkedListElements.js) | easy |
 | 0206 | reverse linked list | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0206-reverseLinkedList.js) | easy |
 | 0239 | sliding window maximum | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0239-slidingWindowMaximum.js) | Hard |
+| 0299 | bulls and cows | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0299-bullsAndCows.js) | Medium |
+| 0349 | intersection of two arrays | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0349-intersectionOfTwoArrays.js) | easy |
 | 0438 | find all anagrams in a string | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0438-findAllAnagramsInAString.js) | Medium |
+| 0463 | island perimeter | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0463-islandPerimeter.js) | easy |
 | 0567 | permutation-in-string | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0567-permutationInString.js) | Medium |
+| 0575 | distribute candies | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0575-distributeCandies.js) | easy |
 | 1208 | get equal substrings within budget | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1208-getEqualSubstringsWithinBudget.js) | Medium |
 | 1456 | maximum number of vowels in a substring of given length | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1456-MaximumNumberOfVowelsInASubstringOfGivenLength.js) | Medium |
+
 
 
 
