@@ -26,6 +26,7 @@ the resolution, And the source code is available at the bottom of this page.
 | 0024 | swap nodes in pairs | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0024-swapNodesInPairs.js) | Medium |
 | 0033 | search in rotated sorted array | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0033-searchInRotatedSortedArray.js) | Medium |
 | 0034 | find first and last position of element in sorted array | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0034-findFirstAndLastPositionOfElementInSortedArray.js) | Medium |
+| 0056 | merge intervals | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0056-mergeIntervals.js) | Medium |
 | 0092 | reverse linked list ii | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0092-reverseLinkedListIi.js) | Medium |
 | 0162 | find peak element | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0162-findPeakElement.js) | Medium |
 | 0203 | remove linked list elements | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0203-removeLinkedListElements.js) | easy |
