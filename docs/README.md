@@ -36,9 +36,11 @@ the resolution, And the source code is available at the bottom of this page.
 | 0349 | intersection of two arrays | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0349-intersectionOfTwoArrays.js) | easy |
 | 0438 | find all anagrams in a string | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0438-findAllAnagramsInAString.js) | Medium |
 | 0463 | island perimeter | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0463-islandPerimeter.js) | easy |
-| 0567 | permutation-in-string | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0567-permutationInString.js) | Medium |
+| 0567 | permutation in string | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0567-permutationInString.js) | Medium |
 | 0575 | distribute candies | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0575-distributeCandies.js) | easy |
+| 0986 | interval list intersections | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/0986-intervalListIntersections.js) | Medium |
 | 1208 | get equal substrings within budget | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1208-getEqualSubstringsWithinBudget.js) | Medium |
+| 1288 | remove covered intervals | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1288-removeCoveredIntervals.js) | Medium |
 | 1456 | maximum number of vowels in a substring of given length | [JavaScript](https://github.com/runope/algorithm/blob/main/code_src/leetcode/1456-MaximumNumberOfVowelsInASubstringOfGivenLength.js) | Medium |
 
 
